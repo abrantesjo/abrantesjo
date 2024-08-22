@@ -3,7 +3,7 @@
 
 # Olá, bem vindo ao meu perfil!
 
-## :closed_book: Tenho 20 anos, sou estudante de Ciência da Computação, e atualmente sou uma estagiária Web Developer muito curiosa. :)
+## :closed_book: Tenho 22 anos, sou graduada em Ciência da Computação, e atualmente uma Web Developer muito curiosa. :)
 
 ## Ferramentas e tecnologias
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
